@@ -499,3 +499,213 @@ uv add more-itertools
 touch module.py
 from more_itertools import sliced, substrings
 sudo apt install mailutils
+cd python-package
+from more_itertools import sliced, substrings
+import more_itertools
+sudo apt install imagemagick-6.q16hdri
+ls -la
+nano module.py
+python3 module.py
+from more_itertools import sliced, substrings
+import sliced, substrings
+cd ..
+from more_itertools import sliced, substrings
+cd python-package
+python3
+vitaliiit@Home-PC:~$ from more_itertools import sliced, substrings
+Command 'from' not found, but can be installed with:
+sudo apt install mailutils
+y
+vitaliiit@Home-PC:~$ from more_itertools import sliced, substrings
+Command 'from' not found, but can be installed with:
+sudo apt install mailutils
+y
+python3
+cd ..
+pip install more-itertools
+sudo apt install python3-pip
+pip install more-itertools
+cd python-package
+pip install more-itertools
+python3 -m venv myenv
+apt install python3.12-venv
+cd ..
+python3 -m venv myenv
+sudo apt install python3.12-venv
+python3 -m venv myenv
+source myenv/bin/activate
+pip install more-itertools
+python3
+pip install more-itertools
+python3
+cd python-package
+python3 hexlet_hello_world/module.py
+python3 module.py
+cd
+ls -la
+cd hexlet-hello-world
+touch module.py
+nano module.py
+python3 module.py
+uv run python3 module.py
+pip list
+from more_itertools import sliced, substrings
+nano module.py
+python3 module.py
+cd ..
+deactivate
+cd hexlet-hello-world
+python3 module.py
+.venv/bin/python3 hexlet_hello_world/module.py
+.venv/bin/python3 hexlet-hello-world/module.py
+cd ..
+.venv/bin/python3 hexlet-hello-world/module.py
+uv run python3 hexlet_hello_world/module.py
+uv run python3 hexlet-hello-world/module.py
+uv add --dev black
+black .
+sudo apt install black
+black .
+ls -la
+git push hexlet-git
+git pull hexlet-git main
+git pull hexlet-hello-world main
+git pull hexlet-git main --no-rebase
+git config pull.rebase false
+git pull hexlet-git main
+git pull hexlet-git main --rebase
+git config pull.rebase true
+git pull hexlet-git main
+git pull hexlet-git main --ff-only
+git config pull.ff only
+git pull hexlet-git main
+git status
+git add .
+git commit -m "Ваше сообщение коммита"
+git pull hexlet-git main
+git pull hexlet-git 
+git push hexlet-git
+cd hexlet-git
+git push
+cd ..
+cd python-package
+git push
+git add .
+git commit -m 'pythovg'
+git push
+git push .
+git remote set-url origin git@github.com:vitaliiIT0/python-package.git
+git push
+cd ..
+cp python-package
+cd python-package
+ls -la
+cd ..
+ls -la
+cd hexlet-hello-world
+ls -la
+nano module.py
+touch main.py
+nano main.py
+git add main.py
+git commit -m 'main'
+uv run python3 -m my_application.scripts.main
+cd ..
+cd python-package
+ls -la
+cd ..
+uv syns
+sync
+git branch -M main
+git status
+ls -la
+rm python-package
+git rm python-package
+git submodule
+cd python-package
+git submodule
+git submodule deinit -f python-package
+cd ..
+git submodule deinit -f python-package
+git rm -r --cached python-package
+rm 'python-package'
+rm -rf .git/modules/python-package
+rm -rf python-package
+git rm -r python-package
+cd python-package
+git commit -m "Removed submodule python-package"
+git push
+ls -la
+git push origin main
+la -la
+git pull origin main
+git add .
+git commit -m "Описание изменений"
+git pull origin main
+git status
+cd hexlet-git
+git restore .
+cd ..
+git status
+cd hexlet-git
+git add .
+git commit -am 'end'
+git push
+cd ..
+git status
+git add .
+git commit -a 'end'
+git commit -am 'cend'
+git push
+git status
+git push origin main
+bfg --delete-files .ssh/id_ed25519
+git reflog expire --expire=now --all
+git gc --prune=now
+git push origin --force
+rm hexlet-hello-world.git
+ls -la
+git rm hexlet-hello-world
+git rm -r hexlet-hello-world
+git commit -m "Удалена директория hexlet-hello-world"
+git push origin main
+pip install git-filter-repo
+git filter-repo --path .ssh/id_ed25519 --invert-paths
+git rebase .ssh/id_ed25519
+sudo install git-filter-repo
+sudo pip install git-filter-repo
+source myenv/bin/activate
+pip install git-filter-repo
+git filter-repo --path .ssh/id_ed25519 --invert-paths
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch .ssh/id_ed25519" --prune-empty --tag-name-filter cat -- --all
+git filter-repo --path .ssh/id_ed25519 --invert-paths
+git push origin main
+deactivate
+git push origin main
+vitaliiit@Home-PC:~$ git push origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+git status
+ls -al ~/.ssh
+cd ~/.ssh
+ls -l
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_ed25519.pub
+cd ..
+ssh -T git@github.com
+git remote -v
+vitaliiit@Home-PC:~$ ssh -T git@github.com
+git@github.com: Permission denied (publickey).
+ls ~/.ssh
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+..
+cd ..
+ssh -T git@github.com
+ls -la
+home
+ssh-add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/id_ed25519.pub
+git status
+git sync
