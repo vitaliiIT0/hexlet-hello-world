@@ -709,3 +709,33 @@ ssh-add ~/.ssh/id_ed25519
 ssh-add ~/.ssh/id_ed25519.pub
 git status
 git sync
+git status
+log 
+git log
+mkdir python
+git add python
+git commit -m 'pytbh'
+git add .
+git commit -m "new"
+git push
+git push .
+git status
+git push origin main
+git push
+ssh -T git@github.com
+ls ~/.ssh
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ssh add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/id_ed25519.pub
+git remote -v
+chmod 600 ~/.ssh/id_ed25519
+chmod 600 ~/.ssh/id_ed25519.pub
+ssh-add ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+ssh-add -l
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/id_ed25519.pub
