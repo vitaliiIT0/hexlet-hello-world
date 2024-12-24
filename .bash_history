@@ -739,3 +739,41 @@ ssh-add -l
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/id_ed25519
 ssh-add ~/.ssh/id_ed25519.pub
+ls -la
+cd hexlet-git
+ls -la
+cd ..
+cd python-package
+cd hexlet-git
+touch newfile.md
+git add newfile.md
+git commit -m 'new file'
+git push
+git push newfile.md
+ssh-add -l
+cd ..
+ssh-add -l
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_ed25519
+ssh-add -l
+ls ~/.ssh/
+ssh-add ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C "viza.uz.work@gmail.com"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+git status
+cd hexlet-git
+ls -la
+git add .
+git commit -m 'end'
+git push
+cd ..
+ls -la
+git remote add origin git@github.com:vitaliiIT0/hexlet-hello-world.git
+git pull origin main
+git status
+git add .
+git commit -m "Сохранил текущие изменения"
+git pull origin main
+ls -la
