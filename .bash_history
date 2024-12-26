@@ -814,3 +814,9 @@ ls -la
 cd ..
 git config --global push.autoSetupRemote always
 git status
+brain-even
+brain-gcd
+cd python-project-49
+brain-calc
+brain-progression
+brain-prime
