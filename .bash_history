@@ -777,3 +777,40 @@ git add .
 git commit -m "Сохранил текущие изменения"
 git pull origin main
 ls -la
+git sstatus
+git status
+git add .
+git commit -m 'fdgojkrgg'
+git push
+ls -la
+git remote add origin git@github.com:vitaliiIT0/hexlet-hello-world.git
+git remote remove origin
+git remote add origin git@github.com:vitaliiIT0/hexlet-hello-world.git
+ls -la
+cd -hexlet-hello-world
+cd hexlet-hello-world
+git remote add origin git@github.com:vitaliiIT0/python-package.git
+git remote -v
+git remote set-url origin git@github.com:vitaliiIT0/python-package.git
+git remote remove origin
+git remote add origin git@github.com:vitaliiIT0/python-package.git
+git remote -v
+git pull origin main
+ls -la
+git remote set-url origin git@github.com:vitaliiIT0/hexlet-hello-world.git
+git remote remove origin
+git remote add origin git@github.com:vitaliiIT0/hexlet-hello-world.git
+git remote -v
+git push
+git pull origin main
+git push origin main
+git push --set-upstream origin main
+git branch -vv
+ls -la
+/home
+cd .
+cd ..
+ls -la
+cd ..
+git config --global push.autoSetupRemote always
+git status
